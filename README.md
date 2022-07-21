@@ -1,7 +1,7 @@
 <div align="center">
 
 # Editor.io
-## https://rjha0821/Editor.io
+## https://github.com/rjha0821/Editor.io
 
 </div>
 
